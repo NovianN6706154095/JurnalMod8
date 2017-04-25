@@ -1,8 +1,6 @@
 package jurnalno1;
 
 import java.util.sacnner;
-
-
 public class jurnalno1 {
 	public static void main(string[]args){
 	Scanner show = new Scanner(System.in);
